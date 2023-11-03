@@ -10,7 +10,7 @@ namespace Lab08AMM
         {
             InitializeComponent();
 
-            MainPage = new BatteryDemo();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
